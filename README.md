@@ -4,7 +4,9 @@ A tiny web application using Twilio services
 The project consists of three parts, each one is more progressively complicated than the previous one and have more functionalities.
 
 Part one is a simple server to which you can point a twilio phone number at and play Fizz Buzz game.
+
 Part two adds a web interface to it.
+
 Part three adds a delay functionality to the previous part.
 
 The most convenient way to build the classes is probably import them inside a project in eclipse IDE and build them from there. If using eclipse IDE, you possibly need to configure some library access rules for the programs to compile. To configure the library access rules, follow the steps below:
